@@ -1,4 +1,4 @@
-# Python Flask in Docker#
+# Python Flask in Docker
 
 Build the image using the following command
 
